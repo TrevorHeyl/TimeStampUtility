@@ -200,10 +200,10 @@
                   this.radioButton2.Location = new System.Drawing.Point(29, 59);
                   this.radioButton2.Margin = new System.Windows.Forms.Padding(4);
                   this.radioButton2.Name = "radioButton2";
-                  this.radioButton2.Size = new System.Drawing.Size(108, 21);
+                  this.radioButton2.Size = new System.Drawing.Size(192, 21);
                   this.radioButton2.TabIndex = 1;
                   this.radioButton2.TabStop = true;
-                  this.radioButton2.Text = "2000 Jan 01";
+                  this.radioButton2.Text = "(Y2K Epoch) 2000 Jan 01";
                   this.radioButton2.UseVisualStyleBackColor = true;
                   // 
                   // radioButton1
@@ -212,9 +212,9 @@
                   this.radioButton1.Location = new System.Drawing.Point(29, 31);
                   this.radioButton1.Margin = new System.Windows.Forms.Padding(4);
                   this.radioButton1.Name = "radioButton1";
-                  this.radioButton1.Size = new System.Drawing.Size(100, 21);
+                  this.radioButton1.Size = new System.Drawing.Size(186, 21);
                   this.radioButton1.TabIndex = 0;
-                  this.radioButton1.Text = "1970 Jan 1";
+                  this.radioButton1.Text = "(Unix Epoch))1970 Jan 1";
                   this.radioButton1.UseVisualStyleBackColor = true;
                   // 
                   // Form1

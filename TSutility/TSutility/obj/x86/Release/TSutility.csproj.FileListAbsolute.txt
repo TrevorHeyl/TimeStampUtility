@@ -1,0 +1,22 @@
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\bin\Release\TSutility.exe
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\bin\Release\TSutility.pdb
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Release\TSutility.Form1.resources
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Release\TSutility.Properties.Resources.resources
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Release\TSutility.exe
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Release\TSutility.pdb
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\bin\Release\TSutility.exe
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\bin\Release\TSutility.pdb
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Release\TSutility.Form1.resources
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Release\TSutility.Properties.Resources.resources
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Release\TSutility.exe
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Release\TSutility.pdb
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\bin\Release\TSutility.exe.manifest
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\bin\Release\TSutility.application
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Release\TSutility.exe.manifest
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Release\TSutility.application

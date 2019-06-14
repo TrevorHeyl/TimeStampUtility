@@ -1,0 +1,16 @@
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\bin\Debug\TSutility.exe
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\bin\Debug\TSutility.pdb
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Debug\TSutility.Form1.resources
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Debug\TSutility.Properties.Resources.resources
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Debug\TSutility.exe
+C:\Users\trevor\AppData\Local\Temporary Projects\TSutility\obj\x86\Debug\TSutility.pdb
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\bin\Debug\TSutility.exe
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\bin\Debug\TSutility.pdb
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Debug\TSutility.Form1.resources
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Debug\TSutility.Properties.Resources.resources
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Debug\TSutility.csproj.GenerateResource.Cache
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Debug\TSutility.exe
+C:\Trevor\Apps\TSUtility\TSutility\TSutility\obj\x86\Debug\TSutility.pdb
